@@ -2,7 +2,7 @@
 
 ## Diagrama UML
 
-```mermaid
+```mermaid 
 classDiagram
 
     class ReprodutorMusical {
